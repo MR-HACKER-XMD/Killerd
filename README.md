@@ -30561,7 +30561,7 @@
 #𝕄𝙍 ℍ𝘼ℂ𝙆𝔼𝙍
 
 <p align="center">
-  <a href="https://github.com/marisela2/Mercedes"><img src="http://readme-typing-svg.herokuapp.com?color=red&center=true&vCenter=true&multiline=false&lines=Mercedes+Whatsapp+Bot;Developed+by+Marisel;Give+star+and+forks+this+Repo+🌟" alt="EthixReadme"></a>
+  <a href="https://github.com/marisela2/Mercedes"><img src="http://readme-typing-svg.herokuapp.com?color=red&center=true&vCenter=true&multiline=false&lines=Mr+Hacker+Whatsapp+Bot;Developed+by+Marisel;Give+star+and+forks+this+Repo+🌟" alt="EthixReadme"></a>
 </p>
 
 ## Getting Started
