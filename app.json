@@ -1,10 +1,9 @@
 {
   "name": "Mr Hacker",
-  "description": "New version .",
+  "description": " Whatsapp bot.",
   "keywords": [
     "whatsapp bot"
   ],
-  "logo":"https://files.catbox.moe/53dv33.jpg",
   "repository": "https://github.com/MR-HACKER-XMD/Killerd",
   "stack": "container",
   "env": { 
@@ -21,27 +20,7 @@
     "AUTO_STATUS_SEEN": {
       "description": "make it true if you want bot to view status",
       "required": false,
-      "value": "true"
-        },
-    "AUTOLIKE_STATUS": {
-      "description": "Make it true if you want bot to read and like status else leave blank",
-      "required": false,
-      "value": "true"
-    },
-    "AUTOLIKE_EMOJI": {
-      "description": "Input your custom status like emoji else leave blank to use default => 🐥",
-      "required": false,
-      "value": "🐥"
-    },
-    "AUTO_REPLY_STATUS": {
-      "description": "make it true if you want the bot to send message after viewing status else leave blank",
-      "required": false,
       "value": ""
-    },
-    "SUDO_NUMBERS": {
-      "description": "Put Sudo Numbers separated by comma Here. Sudos are limited to owner commands else leave blank",
-      "required": false,
-      "value": "27658787051"
     },
     "AUTO_READ": {
       "description": "make it true if you want bot to read message",
@@ -51,7 +30,7 @@
     "AUTO_TYPING": {
       "description": "make it true if you want bot to show typing",
       "required": false,
-      "value": ""
+      "value": "true"
     },
     "AUTO_RECORDING": {
       "description": "make it true if you want bot to show recording audio",
@@ -73,10 +52,20 @@
       "required": false,
       "value": ""
     },
+    "AUTO_STATUS_REPLY": {
+      "description": "make it true if you want to send auto message after status seen",
+      "required": false,
+      "value": ""
+    },
+    "STATUS_READ_MSG": {
+      "description": "enter your status reply message",
+      "required": false,
+      "value": ""
+    },
     "PREFIX": {
       "description": "Your Bot Prefix default (.)",
       "required": false,
-      "value": "."
+      "value": ""
     }
     },
     "buildpacks": [
